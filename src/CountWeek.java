@@ -26,4 +26,8 @@ public class CountWeek {
 	public void methd() {
 		System.out.println("added new method");
 	}
+
+	public void methd1() {
+		System.out.println("added new method");
+	}
 }
